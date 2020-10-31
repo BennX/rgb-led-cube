@@ -53,3 +53,57 @@ One state of the 10byte shift register looks like this
 
 Hilariously I added a demultiplexer for the levels, thus, it only requries 3 bit to drive activate/deactivate the 5 levels. That is not necessary. 
 
+## Display
+
+```
+EA DOGM163S-A	1
+EA LED55X31-W	1
+```
+- Controler: Controller ST7036
+
+
+## Stückliste
+```
+AS 500APC	2
+GS 18P	10
+AT AVR ISP	1
+AWG 28-40F 3M	1
+DS 18B20	1
+ATMEGA 1284P-PU	1
+RAD FC 330/6,3	12
+RAD FC 1.000/10	1
+UDN 2981	11
+74HC 595	12
+74HC 238	1
+USB BW	1
+WSL 40G	2
+PFL 40	2
+WSL 20G	2
+PFL 20	2
+HEBW 21	1
+FT 232 RL	1
+KERKO 18P	2
+BEL 200X150-2	1
+IRL 1004	5
+BEL 75X100-2	1
+BS 170	1
+METALL 10,0K	10
+MPE 115-1-036	1
+PS 25/5G WS	1
+IRF 5305	1
+EA DOGM163S-A	1
+EA LED55X31-W	1
+STEC11B03	1
+GS-KO 16P	11
+22,1184-HC18	1
+DA 25MM	8
+DI 8MM	8
+TASTER 9302	1
+SLK 3MM GN	5
+METALL 100	10
+METALL 1,00	30
+METALL 3,30	30
+METALL 39,0	30
+L-MICC 10?	1
+TL 36 P0	4
+```
