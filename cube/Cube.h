@@ -1,10 +1,3 @@
-/* 
-* Cube.h
-*
-* Created: 31.10.2020 17:12:21
-* Author: benni
-*/
-
 #ifndef __CUBE_H__
 #define __CUBE_H__
 

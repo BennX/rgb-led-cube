@@ -1,9 +1,3 @@
-/*
- * Display.cpp
- *
- * Created: 30.03.2015 19:02:18
- *  Author: Benjamin
- */
 #include "Display.h"
 #include <avr/pgmspace.h>
 #include <stdio.h>

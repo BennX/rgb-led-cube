@@ -1,10 +1,3 @@
-/* 
-* Voxel.h
-*
-* Created: 31.10.2020 17:36:15
-* Author: benni
-*/
-
 #ifndef __VOXEL_H__
 #define __VOXEL_H__
 #include "Vector.h"

@@ -1,10 +1,3 @@
-/* 
-* Proxy.cpp
-*
-* Created: 31.10.2020 19:02:08
-* Author: benni
-*/
-
 #include "Proxy.h"
 #include "Cube.h"
 #include "Voxel.h"
@@ -28,3 +21,4 @@ Color Proxy::operator=(const Color &rgb)
 {
 	return Cube::instance().set(Voxel(m_x, m_y, m_z, rgb));
 }
+

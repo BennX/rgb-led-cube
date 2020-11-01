@@ -1,4 +1,3 @@
-#define F_CPU 22118400 // as the avr is running faster then spec
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>

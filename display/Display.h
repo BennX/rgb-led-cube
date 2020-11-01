@@ -1,10 +1,3 @@
-/*
-* Display.h
-*
-* Created: 07.02.2015 14:51:30
-* Author: Benjamin
-*/
-
 #ifndef __DISPLAY_H__
 #define __DISPLAY_H__
 
@@ -36,7 +29,6 @@
 #define INSTRUCTION_CURSOR_OFF 0b00001000
 #define INSTRUCTION_ENTRY_MODE 0b00000110
 
-#define F_CPU 22118400
 #include <avr/io.h>
 class Display
 {

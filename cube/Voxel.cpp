@@ -1,10 +1,3 @@
-/* 
-* Voxel.cpp
-*
-* Created: 31.10.2020 17:36:15
-* Author: benni
-*/
-
 #include "Voxel.h"
 
 // default constructor
